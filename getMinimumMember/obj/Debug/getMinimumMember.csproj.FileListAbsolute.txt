@@ -1,0 +1,5 @@
+c:\users\nnoercane\documents\visual studio 2015\Projects\getMinimumMember\getMinimumMember\bin\Debug\getMinimumMember.exe
+c:\users\nnoercane\documents\visual studio 2015\Projects\getMinimumMember\getMinimumMember\bin\Debug\getMinimumMember.pdb
+c:\users\nnoercane\documents\visual studio 2015\Projects\getMinimumMember\getMinimumMember\obj\Debug\getMinimumMember.csprojResolveAssemblyReference.cache
+c:\users\nnoercane\documents\visual studio 2015\Projects\getMinimumMember\getMinimumMember\obj\Debug\getMinimumMember.exe
+c:\users\nnoercane\documents\visual studio 2015\Projects\getMinimumMember\getMinimumMember\obj\Debug\getMinimumMember.pdb
